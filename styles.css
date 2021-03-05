@@ -1,0 +1,43 @@
+body {
+    background-color:#ecd2c9;
+}
+
+hr {
+    
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #efd9d1
+    height: 0px;
+    border-width: 5px;
+    width: 5%;
+ 
+}
+
+h1 {
+    color:#7e8f70
+    
+}
+h1 {
+    font-family:sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+h3 {
+    color:#999b84
+}
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+}
+td {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
